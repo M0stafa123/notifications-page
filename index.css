@@ -123,7 +123,7 @@ main .body {
   }
 }
 .unread {
-  background-color: var(--Light-grayish-blue-2);
+  background-color: var(--Light-grayish-blue-1);
   .dot {
     border-radius: 50%;
     background-color: var(--Red);
